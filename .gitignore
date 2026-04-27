@@ -1,0 +1,22 @@
+# Variables de entorno (NUNCA subir)
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Docker
+*.log
+
+# VS Code / editores
+.vscode/
+.idea/
